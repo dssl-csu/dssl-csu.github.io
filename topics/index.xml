@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics on DSSL @ CSU</title>
+    <link>/topics/</link>
+    <description>Recent content in Topics on DSSL @ CSU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jan 1970 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/topics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Talk Title</title>
+      <link>/1970/01/01/talk-title/</link>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+      
+      <guid>/1970/01/01/talk-title/</guid>
+      <description>One sentence description.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/1/01/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1/01/01/</guid>
+      <description>topics Weekly topics for Data Science and Statistical Learning Journal Club @ CSU</description>
+    </item>
+    
+  </channel>
+</rss>
