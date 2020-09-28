@@ -6,10 +6,19 @@
     <description>Recent content in Topics on DSSL @ CSU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/topics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Representer Point Selection for Explaining Deep Neural Networks (Cont&#39;d)</title>
+      <link>/2020/09/30/representer-point-selection-for-explaining-deep-neural-networks-contd/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/30/representer-point-selection-for-explaining-deep-neural-networks-contd/</guid>
+      <description>We will continue to discuss the paper from Yeh et. al. (2018) titled &amp;ldquo;Representer Point Selection for Explaining Deep Neural Networks&amp;rdquo;.</description>
+    </item>
     
     <item>
       <title>Representer Point Selection for Explaining Deep Neural Networks</title>
@@ -18,15 +27,6 @@
       
       <guid>/2020/09/23/representer-point-selection-for-explaining-deep-neural-networks/</guid>
       <description>We will discuss the paper from Yeh et. al. (2018) titled &amp;ldquo;Representer Point Selection for Explaining Deep Neural Networks&amp;rdquo;.</description>
-    </item>
-    
-    <item>
-      <title>Representer Point Selection for Explaining Deep Neural Networks (Cont&#39;d)</title>
-      <link>/2020/09/23/representer-point-selection-for-explaining-deep-neural-networks-contd/</link>
-      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/09/23/representer-point-selection-for-explaining-deep-neural-networks-contd/</guid>
-      <description>We will continue to discuss the paper from Yeh et. al. (2018) titled &amp;ldquo;Representer Point Selection for Explaining Deep Neural Networks&amp;rdquo;.</description>
     </item>
     
     <item>
